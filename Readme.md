@@ -13,8 +13,6 @@ XML         1 hr 10 mins        ░░░░░░░░░░░░░░░░
 ```
 ------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryan-da-ghost&show_icons=true&locale=en&layout=compact" alt="ryan-da-ghost" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-da-ghost&show_icons=true&locale=en" alt="ryan-da-ghost" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-da-ghost&" alt="ryan-da-ghost" /></p>
