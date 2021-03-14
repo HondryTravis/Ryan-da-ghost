@@ -1,5 +1,5 @@
 # Hey Im Ryan !   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryan-da-ghost&label=Profile%20views&color=0e75b6&style=flat-square" alt="ryan-da-ghost" /> </p>
+Honeslty I hate Everything About The Github Green Dot thingys So I made a Project Which does this for me :) (NOTE THAT THIS WAS A COMPITITION, AND I WOULD NOT RECCOMMEND DOING WHAT I DID ! PLEASE DON't DO WHAT I DID, I WILL HOWERVER CREATE REPOS FOR PROJECTS BUT I MAINLY CREATE PRIVATE ONES BECAUSE OF MY OWN PROJECTS, I HOPE YOU GUYS UNDERSTAND)
 
 -------
 
